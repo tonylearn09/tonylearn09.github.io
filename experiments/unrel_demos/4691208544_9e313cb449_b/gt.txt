@@ -1,0 +1,6 @@
+Ground truth:
+table - carry - vase
+vase - on - table
+vase - on the top of - table
+bowl - on - table
+pillow - on - sofa

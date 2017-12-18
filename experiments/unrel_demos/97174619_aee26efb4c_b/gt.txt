@@ -1,0 +1,3 @@
+Ground truth:
+sky - over - train
+train - under - sky
