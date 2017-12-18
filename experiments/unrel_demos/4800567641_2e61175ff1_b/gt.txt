@@ -1,0 +1,14 @@
+Ground truth:
+person - ride - bike
+person - wear - shoes
+person - wear - shorts
+person - above - street
+bike - has - cup
+cup - next to - person
+building - behind - tree
+tree - behind - person
+tree - above - street
+wheel - on - bike
+wheel - on - street
+sunglasses - on - person
+sunglasses - above - street

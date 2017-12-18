@@ -1,0 +1,8 @@
+Ground truth:
+person - on - bed
+bed - in the front of - monitor
+lamp - next to - bed
+monitor - behind - bed
+plant - on the left of - monitor
+pot - on the left of - post
+pot - on the left of - monitor
